@@ -1,2 +1,2 @@
 # Praktikum-Jarkom
-kl;jljas;jaslkdjakldja
+[Screenshoot](img/prtkm.jpeg)

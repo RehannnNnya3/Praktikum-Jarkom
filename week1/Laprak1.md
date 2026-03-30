@@ -10,4 +10,4 @@ Mempelajari Wireshark
 
 ## Lampiran 
 Hasil Percobaan: 
-![ScrennShoot Hasil](../assets/image/week1.png)
+![ScreenShoot hasil](assets/Screenshot wireshark.jpeg)
