@@ -10,4 +10,4 @@ Mempelajari Wireshark
 
 ## Lampiran 
 Hasil Percobaan: 
-![Uploading Screenshot wireshark.png…]()
+<img width="1919" height="1017" alt="Screenshot wireshark" src="https://github.com/user-attachments/assets/7104ac86-7c16-4f4e-88d1-12cd6ef69a59" />
